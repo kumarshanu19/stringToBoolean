@@ -1,6 +1,6 @@
 {
   "name": "@kumarshanu/string-to-boolean",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "it converts a given string value to a boolean value. It handles various cases such as 'true', 'false', 'yes', 'no', '1', '0', null, and undefined. It uses a switch statement with case-insensitive comparisons to determine the boolean value. If none of the predefined cases match, it attempts to parse the string value using JSON.parse. The function returns the converted boolean value.",
   "main": "index.js",
   "types": "index.d.ts",
