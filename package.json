@@ -1,0 +1,33 @@
+{
+  "name": "@kumarshanu/string-to-boolean",
+  "version": "1.0.1",
+  "description": "it converts a given string value to a boolean value. It handles various cases such as 'true', 'false', 'yes', 'no', '1', '0', null, and undefined. It uses a switch statement with case-insensitive comparisons to determine the boolean value. If none of the predefined cases match, it attempts to parse the string value using JSON.parse. The function returns the converted boolean value.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumarshanu19/stringToBoolean.git"
+  },
+  "keywords": [
+    "boolean",
+    "success",
+    "string",
+    "true",
+    "false",
+    "stringtoboolean",
+    "string-to-boolean",
+    "Kumarshanu"
+  ],
+  "author": "Kumar Shanu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumarshanu19/stringToBoolean/issues"
+  },
+  "homepage": "https://github.com/kumarshanu19/stringToBoolean#readme",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  }
+}
